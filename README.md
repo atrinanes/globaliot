@@ -3,12 +3,12 @@ Global IoT
 
 GRUPO AMBERS - 2TDSR
 Integrantes:
-Aline Triñanes Machado - RM 84449
-Alysson Gustavo Rodrigues Maciel - RM 86484
-Gabriel Franham - RM 80483 
-Gabriel Garcia Pereira - RM 86288
-Helouíse Cristina de Almeida Itokazo - RM 85110
-Jonas Muniz de Souza - RM 84575
+1. Aline Triñanes Machado - RM 84449
+2. Alysson Gustavo Rodrigues Maciel - RM 86484
+3. Gabriel Franham - RM 80483 
+4. Gabriel Garcia Pereira - RM 86288
+5. Helouíse Cristina de Almeida Itokazo - RM 85110
+6. Jonas Muniz de Souza - RM 84575
 
 LINK COLAB:
 https://colab.research.google.com/drive/1EjZDA39SHLl2mRRdIZx1vrYTckrpBXoo?usp=sharing
