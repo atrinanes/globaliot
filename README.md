@@ -21,6 +21,7 @@ Instruções:
 Assistir ao vídeo no Youtube com explicações passo-a-passo de como o Colab foi desenvolvido, e como realiza seu pleno funcionamento.
 
 Para realização da proposta:
-1. compreender o dataset
-2. ajustar os dados
-3. 
+1. Compreender o dataset;
+2. Ajustar os dados;
+3. Ajustar o KNN;
+4. Calcular precisão.
